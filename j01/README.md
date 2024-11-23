@@ -36,3 +36,5 @@ I noticed that the categories (Business Select, Anytime, Wanna Get Away plus, an
 </div>
 
 As a poor college student, I chose the cheapest one. Then the website proceeded to direct me to pick another flight to get back to Sacramento airport from New Orleans. After confirming flights and days, all that was left for me to do is to enter my personal information and credit/debit card numbers. The checkout process is as similar as any other website that provides online purchase.
+
+In conclusion, I find the SouthWest airline website is an effective and user-friendly website that ensure new user's satisfactory. Its intuitive design and streamlined navigation allow users to book flights, manage reservations, and explore travel options with ease. Although I did have a few doubts while using, the website ensured that there would be answers to my doubts.
