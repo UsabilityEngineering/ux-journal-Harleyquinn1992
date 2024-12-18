@@ -1,5 +1,5 @@
 Earlier this month, my sister invited me to tag along with her and her husband on a trip to New Orleans on Christmas. I have never been out of state ever since I came to the US, so this is a very exciting offer for me. My sister suggested using SouthWest airline as the price is cheaper compared to other airlines, so I spent a morning taking a look at their website.
-I simply looked up “SouthWest airlines”,  clicked on the first search result and I got directed to the SouthWest main website. I really appreciated how simple and straightforward the website looked. 
+I simply looked up “SouthWest airlines”,  clicked on the first search result and I got directed to the SouthWest main website. I really appreciated how **simple** and **straightforward** the website looked. 
 
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="Interface.png" alt="Interface.png" />
@@ -11,7 +11,7 @@ I did not pay attention to the offers/sales that were being promoted on the home
     <img src="Arrival.png" alt="Arrival.png" />
 </div>
 
-I moved to picking a departing day and returning day. The process is extremely simple, the user can either enter their desired day by hand, or select the calendar icon within the box, which will show a mini calendar of the current month and upcoming months. The date of my travel will be on Christmas Eve till the 28th. So I just clicked on these 2 days in the calendar.
+I moved to picking a departing day and returning day. The process is extremely **simple**, the user can either enter their desired day by hand, or select the calendar icon within the box, which will show a mini calendar of the current month and upcoming months. The date of my travel will be on Christmas Eve till the 28th. So I just clicked on these 2 days in the calendar.
 
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="PickDate.png" alt="PickDate.png" />
@@ -38,3 +38,5 @@ I noticed that the categories (Business Select, Anytime, Wanna Get Away plus, an
 As a poor college student, I chose the cheapest one. Then the website proceeded to direct me to pick another flight to get back to Sacramento airport from New Orleans. After confirming flights and days, all that was left for me to do is to enter my personal information and credit/debit card numbers. The checkout process is as similar as any other website that provides online purchase.
 
 In conclusion, I find the SouthWest airline website is an effective and user-friendly website that ensure new user's satisfactory. Its intuitive design and streamlined navigation allow users to book flights, manage reservations, and explore travel options with ease. Although I did have a few doubts while using, the website ensured that there would be answers to my doubts.
+
+In all, I find the SouthWest website is extremely easy to learn and navigate. The website definitely aced it when it comes to **efficiency** as it gives the user exactly what they need. I am very **pleased** with the outcome.
